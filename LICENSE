@@ -1,0 +1,59 @@
+## Netlv Project - Experimental Use License
+
+Version 1.0, October 27, 2023
+
+### Preamble
+
+This license governs the use and distribution of the Netlv Project ("the Software").  The Software is an experimental Minecraft anti-cheat plugin provided "as is" and intended solely for educational and experimental purposes. 
+
+**Important Notice:** The Software is not production-ready and may contain errors, bugs, or incomplete features. It is not intended for commercial use or deployment on live servers. The author(s) disclaim all liability for any damages or consequences resulting from the use, modification, or distribution of this Software. By using, modifying, or distributing this Software, you acknowledge and agree to these terms.
+
+### Terms and Conditions
+
+#### 0. Definitions
+
+* **"This License"** refers to the Netlv Project - Experimental Use License.
+* **"The Software"** refers to the Netlv Project, including all source code and any accompanying documentation.
+* **"You"** refers to the individual or entity exercising rights under this License. 
+* **"The Author"** refers to the original author of the Software.
+
+#### 1. License Grant
+
+Subject to the terms and conditions of this License, The Author grants you a worldwide, royalty-free, non-exclusive license to:
+
+**(a) Use:** Execute the Software on a single device for personal, educational, or experimental purposes only. 
+**(b) Study:** Analyze the source code of the Software for learning and understanding its functionality.
+**(c) Modify:** Create derivative works of the Software for educational or experimental purposes only, provided that such modifications are clearly marked as derivative works and are also subject to the terms of this License.
+
+#### 2. Prohibited Uses
+
+You are expressly prohibited from:
+
+**(a) Commercial Use:** Using the Software for any commercial purpose, including but not limited to selling, licensing, or distributing the Software or any derivative works for profit.
+**(b) Redistribution:** Redistributing the Software or any derivative works, except as part of a non-commercial educational or experimental project where the source code is made available under this License, and the original authorship is clearly attributed to The Author. 
+**(c) Misrepresentation:** Presenting the Software as a complete or production-ready anti-cheat solution. 
+**(d) Deployment on Live Servers:** Deploying the Software on a Minecraft server that is intended for public use or commercial purposes. 
+
+#### 3. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+#### 4. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+#### 5. Attribution
+
+You must give appropriate credit to The Author in any distributions or derivative works. This credit should be provided in a manner that is reasonable and customary for the medium in which the Software or derivative work is used. The following acknowledgment should be included:
+
+"This project is based on the Netlv Project created by TheShinyEnd."
+
+#### 6. License Updates
+
+The Author reserves the right to update, modify, or change the terms of this License at any time and for any reason. Such updates shall be effective upon publication of the revised License. You agree to be bound by any future versions of this License.
+
+#### 7. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of [Your Country/Jurisdiction]. 
+
+### End of Terms and Conditions 
