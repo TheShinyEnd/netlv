@@ -1,0 +1,31 @@
+name: Netlv
+version: 1.0
+main: net.theshinyend.development.netlv.Netlv
+commands:
+  printreach:
+    description: Prints the reach of a player
+  ca:
+    description: Calculates if a player is using an aim modification(unfinished)
+  clcps:
+    description: Performs a calculation for Left clicks
+  crcps:
+    description: Performs a calculation for Right clicks
+  cps:
+    description: Prints the player last CPS of both RMB and LMB
+  identifiers:
+    description: AntiCheat alerts
+  togglemovement:
+    description: Toggle all players movement in the server, exempt permission exists
+  netlv:
+    description: Settings and help
+  keys:
+    description: Show what keys the player is pressing, cause why not?
+  nvtick:
+  nightvision:
+  nv:
+  blindness:
+  biome:
+  env:
+  deepfog:
+  fog:
+  gamestate:
